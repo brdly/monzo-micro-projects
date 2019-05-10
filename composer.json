@@ -1,0 +1,7 @@
+{
+    "name": "Monzo Micro Projects",
+    "description": "Micro projects to make Monzo smarter for me",
+    "require": {
+        "vlucas/phpdotenv": "^3.3"
+    }
+}
